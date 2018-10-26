@@ -15,6 +15,6 @@ Locales['sv'] = {
   ['return_to_veh'] = 'vänligen återvänd till ditt fordon och återuppta körningen.',
   ['must_in_vehicle'] = 'du måste vara i ett ~b~fordon~s~ för att starta uppdraget.',
   ['have_earned'] = 'du har tjänat ~g~%s SEK~s~',
-  ['comp_earned'] = '- ditt företag har tjärnat ~g~%s SEK~s~\n- du har tjärnat ~g~%s SEK~s~',
+  ['comp_earned'] = '- ditt företag har tjänat ~g~%s SEK~s~\n- du har tjänat ~g~%s SEK~s~',
   ['mission_complete'] = 'uppdraget har ~y~slutförts~s~!',  
 }
