@@ -150,14 +150,6 @@ AddEventHandler('esx:setJob', function(job)
   PlayerData.job = job
 end)
 
-
-
--- Create Blips
-
-
-
-
-
 -- Ambulance Job
 Citizen.CreateThread(function()
 
